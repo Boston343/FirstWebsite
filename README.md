@@ -1,4 +1,3 @@
 # FirstWebsite
-This will probably be awful at the start.
 
-Test first edit.
+Compilation of true information with jokes. Pure HTML goodness.
